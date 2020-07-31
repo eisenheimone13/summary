@@ -12,11 +12,6 @@ export default {
   name: 'App',
   components: {
     HelloWorld
-  },
-  methods: {
-    you() {
-      this.$router.go('home')
-    }
   }
 }
 </script>
